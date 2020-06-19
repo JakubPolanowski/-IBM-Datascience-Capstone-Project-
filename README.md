@@ -1,3 +1,3 @@
 # IBM Datascience Capstone Project
 
-Here is my final project for the IBM Data science Specialization Certificate Capstone Course, originally on my github account, but I'm moving it here to gitlab since I generally prefer using gitlab.  
+This is my final project for the Capstone Course of the IBM Data Science Specialization Certificate that I completed. Essentially the project revolved around using the foursquare API and additional publicly availible data to use in an analysis of an area (city in my case) and draw conclusions from the clusters that could be generated with the date. I decided to take a look at how the socioenconomic data of Chicago affected what types of venues are the top five within socioeconomic clusters in chicago. For more details check out the python jupyter notebook or the final report (available either as a pdf or a word doc).
